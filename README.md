@@ -1,2 +1,3 @@
 # Bird-and-calc
-Jast another repositiru
+
+Hi Humans!
